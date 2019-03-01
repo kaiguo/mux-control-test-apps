@@ -1,0 +1,1 @@
+D:\dev\SplitViewTest\SplitViewTest\SplitViewTest.csproj;x86
